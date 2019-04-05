@@ -5,7 +5,6 @@ let FONT_SIZE_MAX_RANGE = 32;
 let nbPika = -1;
 
 updateNbPika();
-
 $("#pikaButton").click(updateNbPika);
 
 function updateNbPika() {
