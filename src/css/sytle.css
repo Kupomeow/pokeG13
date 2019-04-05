@@ -6,7 +6,39 @@
 
 /* INDEX */
 
+.infoIndex {
+    margin-top: 5%;
+}
+
+#accordion {
+    box-shadow: 4px 4px 5px 0px #000000;
+}
+
+.contentAccordion {
+    text-align: center;
+    margin-top: 1%;
+    width: 40%;
+    float:none;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 2px;
+    box-shadow: 4px 4px 5px 0px #000000;
+    color: white;
+}
+
+#mainPage > div > h1 {
+    margin-top: 2%;
+    font-size: 75px;
+}
+
+#mainPage > div > img {
+    width: 35%;
+}
+
 #launchBtn {
-    margin-top: 20%;
+    border: 2px solid black;
+    box-shadow: 4px 4px 5px 0px #000000;
+    margin-top: 5%;
+    width: 20%;
     padding: 20px 2% 
 }
