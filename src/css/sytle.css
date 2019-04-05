@@ -3,3 +3,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/* INDEX */
+
+#launchBtn {
+    margin-top: 20%;
+    padding: 20px 2% 
+}
